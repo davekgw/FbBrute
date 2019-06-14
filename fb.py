@@ -13,19 +13,20 @@ import cookielib
 
 
 GHT = '''
+'''
 
-                 #************************#
-                 #* ---- DAVEKOAGOW ---- *#
-                 #************************#
+print "          #************************#"
+print "          #* ---- DAVEKOAGOW ---- *#"
+print "          #************************#"
+print ""
+print "          /**************************/"
+print "          /*                        */"
+print "          /* -- SMK ADVENT KAIMA -- */"
+print "          /*                        */"
+print "          /**************************/"
 
-                /**************************/
-                /*                        */
-                /* -- SMK ADVENT KAIMA -- */
-                /*                        */
-                /**************************/
-
-       /* (HACKER/CRACKER) */
-       /* (SKAVENTKA) */
+print "/* (HACKER/CRACKER) */"
+print "/* (SKAVENTKA) */"
 
        /* -- JANGAN LUPA FOLOW AUTHOR - */ 
        /* -- FACEBOOK : Dave Koagow -- */
