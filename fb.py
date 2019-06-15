@@ -11,29 +11,44 @@ import random
 import mechanize
 import cookielib
 
+#colors
+w='\e[97m'
+g='\033[1;92m'
+r='\033[1;91m'
+a='\033[1;94m'
+b='\e[1;4m'
+cyan='\033[1;36m'
+green='\033[1;32m'
+red='\033[1;31m'
+yellow='\033[1;33m'
+blue='\033[1;34m'
+purple='\033[1;35m'
+reset='\033[0m'
+G='\e[110m'
+G1='\e[101m'
+o='\033[0m'
 
 GHT = '''
 print "       /* -- JANGAN LUPA FOLOW AUTHOR - */"
-print "       /* -- FACEBOOK : Dave Koagow -- */"
+print "       /* -- FACEBOOK : https://mobile.facebook.com/ld.profile1000098661657117 -- */"
 print "       /* -- WHATSAPP : 089631008798 - */"
 '''
-print "          #************************#"
-print "          #* ---- DAVEKOAGOW ---- *#"
-print "          #************************#"
+print "$a          #************************#"
+print "$a          #* ---- $red"DAVEKOAGOW" ---- *#"
+print "$a          #************************#"
 print ""
 print "          /**************************/"
 print "          /*                        */"
 print "          /* -- SMK ADVENT KAIMA -- */"
 print "          /*                        */"
 print "          /**************************/"
-
+print ""
 print "/* (HACKER/CRACKER) */"
 print "/* (SKAVENTKA) */"
-
+print ""
 print "/* - Welcome To Facebook Cracker - */ !!"
 print "/* - Go To Hell - */ !!!"
-
-
+print ""
 email = str(raw_input("/* - Masukkan alamat email target - */ : "))
 passwordlist = str(raw_input("/* - Masukkan nama file password list - */ : "))
 
