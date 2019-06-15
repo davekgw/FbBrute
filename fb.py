@@ -29,27 +29,27 @@ G1='\e[101m'
 o='\033[0m'
 
 GHT = '''
-print "\033[1;34m       /* -- JANGAN LUPA FOLOW AUTHOR - */"
-print "       /* -- FACEBOOK : https://mobile.facebook.com/ld.profile1000098661657117 -- */"
-print "       /* -- WHATSAPP : 089631008798 - */"
+print "       \033[1;34m/* -- \033[1;31mJANGAN LUPA FOLOW AUTHOR \033[1;34m- */"
+print "       /* -- \033[1;32mFACEBOOK : \033[1;33mhttps://mobile.facebook.com/ld.profile1000098661657117 \033[1;34m-- */"
+print "       /* -- \033[1;31mWHATSAPP : \033[1;35m089631008798 - */"
 '''
-print "          #************************#"
-print "          #* ---- \033[1;31mDAVEKOAGOW ---- *#"
+print "          \033[1;34m#************************#"
+print "          #* ---- \033[1;31mDAVEKOAGOW \033[1;34m---- *#"
 print "          #************************#"
 print ""
 print "          /**************************/"
 print "          /*                        */"
-print "          /* -- SMK ADVENT KAIMA -- */"
+print "          /* -- \033[1;32mSMK ADVENT KAIMA \033[1;34m-- */"
 print "          /*                        */"
 print "          /**************************/"
 print ""
-print "/* (HACKER/CRACKER) */"
-print "/* (SKAVENTKA) */"
+print "/* -- \033[1;31m(HACKER/CRACKER) \033[1;34m-- */"
+print "/* -- \033[1;32m(SKAVENTKA) \033[1;34m-- */"
 print ""
-print "/* - Welcome To Facebook Cracker - */ !!"
-print "/* - Go To Hell - */ !!!"
+print "\033[1;33m/* - Welcome To Facebook Cracker - */ !!"
+print "\033[1;31m/* - Go To Hell - */ !!!"
 print ""
-email = str(raw_input("/* - Masukkan alamat email target - */ : "))
+email = str(raw_input("\033[1;33m/* - Masukkan alamat email target - */ : "))
 passwordlist = str(raw_input("/* - Masukkan nama file password list - */ : "))
 
 useragents = [('User-agent', 'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.1) Gecko/2008071615 Fedora/3.0.1-1.fc9 Firefox/3.0.1')]
