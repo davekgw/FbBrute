@@ -11,23 +11,6 @@ import random
 import mechanize
 import cookielib
 
-#colors
-w='\e[97m'
-g='\033[1;92m'
-r='\033[1;91m'
-a='\033[1;94m'
-b='\e[1;4m'
-cyan='\033[1;36m'
-green='\033[1;32m'
-red='\033[1;31m'
-yellow='\033[1;33m'
-blue='\033[1;34m'
-purple='\033[1;35m'
-reset='\033[0m'
-G='\e[110m'
-G1='\e[101m'
-o='\033[0m'
-
 GHT = '''
 print "       \033[1;34m/* -- \033[1;31mJANGAN LUPA FOLOW AUTHOR \033[1;34m- */"
 print "       /* -- \033[1;32mFACEBOOK : \033[1;33mhttps://mobile.facebook.com/ld.profile1000098661657117 \033[1;34m-- */"
@@ -43,7 +26,7 @@ print "          /* -- \033[1;32mSMK ADVENT KAIMA \033[1;34m-- */"
 print "          /*                        */"
 print "          /**************************/"
 print ""
-print "/* -- \033[1;31m(HACKER/CRACKER) \033[1;34m-- */"
+print "/* -- \033[0m(HACKER/CRACKER) \033[1;34m-- */"
 print "/* -- \033[1;32m(SKAVENTKA) \033[1;34m-- */"
 print ""
 print "\033[1;33m/* - Welcome To Facebook Cracker - */ !!"
