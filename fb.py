@@ -14,7 +14,10 @@ import cookielib
 
 GHT = '''
 '''
-
+       /* -- JANGAN LUPA FOLOW AUTHOR - */ 
+       /* -- FACEBOOK : Dave Koagow -- */
+       /* -- WHATSAPP : 089631008798 - */
+'''
 print "          #************************#"
 print "          #* ---- DAVEKOAGOW ---- *#"
 print "          #************************#"
@@ -28,10 +31,6 @@ print "          /**************************/"
 print "/* (HACKER/CRACKER) */"
 print "/* (SKAVENTKA) */"
 
-       /* -- JANGAN LUPA FOLOW AUTHOR - */ 
-       /* -- FACEBOOK : Dave Koagow -- */
-       /* -- WHATSAPP : 089631008798 - */
-'''
 print "/* - Welcome To Facebook Cracker - */ !!"
 print "/* - Go To Hell - */ !!!"
 
