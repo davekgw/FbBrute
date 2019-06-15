@@ -49,7 +49,7 @@ print ""
 print "\033[1;33m/* - Welcome To Facebook Cracker - */ !!"
 print "\033[1;31m/* - Go To Hell - */ !!!"
 print ""
-email = str(raw_input("\033[1;33m/* - Masukkan alamat email target - */ : "))
+email = str(raw_input("\033[1;36m/* - Masukkan alamat email target - */ : "))
 passwordlist = str(raw_input("/* - Masukkan nama file password list - */ : "))
 
 useragents = [('User-agent', 'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.1) Gecko/2008071615 Fedora/3.0.1-1.fc9 Firefox/3.0.1')]
