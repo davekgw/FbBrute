@@ -29,13 +29,13 @@ G1='\e[101m'
 o='\033[0m'
 
 GHT = '''
-print "       /* -- JANGAN LUPA FOLOW AUTHOR - */"
+print "\033[1;34m       /* -- JANGAN LUPA FOLOW AUTHOR - */"
 print "       /* -- FACEBOOK : https://mobile.facebook.com/ld.profile1000098661657117 -- */"
 print "       /* -- WHATSAPP : 089631008798 - */"
 '''
-print "$a          #************************#"
-print "$a          #* ---- $red"DAVEKOAGOW" ---- *#"
-print "$a          #************************#"
+print "          #************************#"
+print "          #* ---- \033[1;31mDAVEKOAGOW ---- *#"
+print "          #************************#"
 print ""
 print "          /**************************/"
 print "          /*                        */"
